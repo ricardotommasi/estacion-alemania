@@ -13,8 +13,8 @@ const APP_MENU = [
   },
   {
     id: 3,
-    es: "Reservas",
-    en: "Reservations",
+    es: "Otros servicios",
+    en: "Other Services",
     url: "/reservas",
   },
   {
