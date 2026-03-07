@@ -13,9 +13,9 @@ const APP_MENU = [
   },
   {
     id: 3,
-    es: "Reserva y Eventos",
-    en: "Reservations and Events",
-    url: process.env.NEXT_PUBLIC_URL_ESTACION_ALEMANIA_CONTACTO ?? "",
+    es: "Reservas",
+    en: "Reservations",
+    url: "/reservas",
   },
   {
     id: 4,

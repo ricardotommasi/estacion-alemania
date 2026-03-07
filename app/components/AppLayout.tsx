@@ -27,7 +27,8 @@ export default function AppLayout({ children }: { children: React.ReactNode }) {
           bg-cover
           bg-center
           relative
-          overflow-hidden
+          overflow-x-hidden
+          overflow-y-visible
           sm:mx-auto
           sm:w-[400px]
           sm:border-2
